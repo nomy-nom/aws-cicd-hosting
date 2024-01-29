@@ -2,4 +2,4 @@
 
 hi
 
-![Alt Text](imges/favicon.ico)
+![Alt Text](https://github.com/nomy-nom/aws-cicd-hosting/imges/favicon.ico)
