@@ -3,7 +3,7 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "website_bucket" {
-  bucket = "nnaomi.org"
+  bucket = "naomii.org"
   acl    = "public-read"
 
   website {
@@ -11,7 +11,7 @@ resource "aws_s3_bucket" "website_bucket" {
   }
 }
 resource "aws_acm_certificate" "website_certificate" {
-  domain_name       = "nnaomi.org"
+  domain_name       = "naomii.org"
   validation_method = "email"
   }
 
@@ -51,12 +51,12 @@ resource "aws_cloudfront_distribution" "website_distribution" {
 }
 
 resource "aws_route53_zone" "main" {
-  name = "nnaomi.org"
+  name = "naomii.org"
 }
 
 resource "aws_route53_record" "website_record" {
   zone_id = aws_route53_zone.main.zone_id
-  name    = "nnaomi.org"
+  name    = "naomii.org"
   type    = "A"
 
   alias {
