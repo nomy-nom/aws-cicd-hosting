@@ -1,3 +1,5 @@
+Fun Fact! -- The below ReadMe is dynamically pulled from GitHub's API
+
 aws-cicd-iac-site ReadMe
 
 Hi there! Thanks for visiting my page. Here's a a quick overview of the project:
