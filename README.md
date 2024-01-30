@@ -1,5 +1,6 @@
 Fun Fact! -- The below ReadMe is dynamically pulled from GitHub's API
 
+GitHub Repo Link: https://github.com/nomy-nom/aws-cicd-hosting
 aws-cicd-iac-site ReadMe
 
 Hi there! Thanks for visiting my page. Here's a a quick overview of the project:
