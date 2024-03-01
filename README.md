@@ -1,5 +1,3 @@
-Hi there 3/1
-
 Fun Fact! -- The below ReadMe is dynamically pulled from GitHub's API
 
 GitHub Repo Link: https://github.com/nomy-nom/aws-cicd-hosting
@@ -12,7 +10,6 @@ Four main components to this site:
 2) IaC: AWS resources written only with Terraform
 3) CICD: Code changes are pushed and reflected in  CICD progress
 4) API: This readme page is pulled on the website dynamically using API Gateway and Lambda
-
 
 ![Alt Text](https://github.com/nomy-nom/aws-cicd-hosting/blob/main/imges/overview.png?raw=true)
 
