@@ -1,8 +1,7 @@
-GitHub Repo Link: https://github.com/nomy-nom/aws-cicd-hosting
-
 Hi there! Thanks for visiting my page. Here's a a quick overview of the project:
+
+GitHub Repo Link: https://github.com/nomy-nom/aws-cicd-hosting
  
-Main components to this site:
 1) Continuous Integration and Continuous Deployment (CI/CD)
   
 Changes made to the code are automatically pushed through a CI/CD pipeline to update the website's progress
