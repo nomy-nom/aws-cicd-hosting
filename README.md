@@ -1,4 +1,4 @@
-GitHub Repo Link: https://github.com/nomy-nom/aws-cicd-hosting
+## GitHub Repo Link: https://github.com/nomy-nom/aws-cicd-hosting
 
 Hi there! Thanks for visiting my page. Here's a a quick overview of the project:
 
@@ -8,10 +8,10 @@ Hi there! Thanks for visiting my page. Here's a a quick overview of the project:
 3) Frontend: covered by HTML/CSS, Javascript, and GitHub API. Hosted with Cloudfront and Route53
 
     Github folder: /frontend
-5) IaC: AWS resources written only with Terraform
+4) IaC: AWS resources written only with Terraform
 
     Github file: /main.tf
-7) Containerzation: Utilizes docker image for node.js (FROM node:20)
+5) Containerzation: Utilizes docker image for node.js (FROM node:20)
 
     Github file: /Dockerfile
 
