@@ -6,10 +6,12 @@ Main components to this site:
 1) CICD: Code changes are pushed and reflected in  CICD progress
 2) API: This readme page is pulled on the website dynamically using API Gateway and Lambda 
 3) Frontend: covered by HTML/CSS, Javascript, and GitHub API. Hosted with Cloudfront and Route53
+
+   
     Github folder: /frontend
-4) IaC: AWS resources written only with Terraform
+5) IaC: AWS resources written only with Terraform
     Github file: /main.tf
-5) Containerzation: Utilizes docker image for node.js (FROM node:20)
+6) Containerzation: Utilizes docker image for node.js (FROM node:20)
     Github file: /Dockerfile
 
 
